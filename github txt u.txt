@@ -1,0 +1,16 @@
+git init 
+git status
+
+git config user.name "afjal"
+git config user.email "afjalrazz609@gmail.com"
+git remote add origin https://github.com/afjalrazz609-cmd/day11b.git
+
+git config --list
+
+git add .
+
+ git commit -m "first file added"
+
+ git branch -m main 
+
+ git push -u original main
